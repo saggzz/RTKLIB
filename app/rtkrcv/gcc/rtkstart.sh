@@ -1,5 +1,5 @@
 #!/bin/sh
 # rtkrcv startup script
 
-echo statup script ok
+echo startup script ok
 
